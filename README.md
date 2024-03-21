@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MAnnieDex
+- 👋 Hi, I’m @Dexcalibur96
 - 👀 I’m interested in coding and computersci!
 - 🌱 I’m currently learning .js
 - 💞️ I’m looking to collaborate on nothing right now as I'm super beginner hah!
